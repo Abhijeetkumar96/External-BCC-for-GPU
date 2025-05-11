@@ -1,4 +1,3 @@
-```markdown
 # GEM-BCC: GPU-External-Memory Biconnected Components on GPUs
 
 
